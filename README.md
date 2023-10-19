@@ -1,4 +1,3 @@
 # S-PScripts.github.io
 
-test text
-test text
+A site on the internet.
