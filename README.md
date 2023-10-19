@@ -1,4 +1,4 @@
-# s-pscripts.github.io
+# S-PScripts.github.io
 
 test text
 test text
