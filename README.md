@@ -1,5 +1,4 @@
-# Welcome to S-P's Website!
-
-A site on the internet.
+# My stuff
 
 Chromebook Utilities: https://github.com/S-PScripts/chromebook-utilities
+Social Medias: https://lhub.to/ts2021
